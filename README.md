@@ -1,6 +1,4 @@
 - 👋 Hi, I’m Idris, I am a Tech Professional www.linkedin.com/in/idris-adibelli
-
-
 - 👀 I’m interested in IT and cyber security
 - 🌱 I’m currently learning microsoft 365 fundementals and networking
 - 💞️ I’m looking to collaborate on IT support and cyber security 
