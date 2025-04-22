@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @idris-adbl
+- 👋 Hi, I’m Idris, I am a Tech Professional
 - 👀 I’m interested in IT and cyber security
 - 🌱 I’m currently learning microsoft 365 fundementals and networking
 - 💞️ I’m looking to collaborate on IT support and cyber security 
