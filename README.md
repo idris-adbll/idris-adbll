@@ -3,6 +3,8 @@
 <h2>👨‍💻 Information Technology Projects:</h2>
 
 <b>Windows Server 2022 (Active Directory Projects)</b>
+
+
 **Objective** 🎯
 
 In this Active Directory project, I would like to build some important information that is very useful in an IT environment.  Active Directory is widely used in an IT environment. I want to develop my projects with creating Group Policy, Organizational Unit, Creating User Accounts with specific attributes, Creating Security and Distribution Groups, Managing Group Memberships, Creating and Link policies to organizational units, setting up file sharing within AD environment, Creating and Configuring a Service Account, Setting up Account lockout to enhance security. 
