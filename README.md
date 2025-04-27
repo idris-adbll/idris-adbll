@@ -2,7 +2,7 @@
 
 <h2>👨‍💻 Information Technology Projects:</h2>
 
-- <b> Windows Server 2022 (Active Directory Projects)</b>
+- <b>Windows Server 2022 (Active Directory Projects)</b>
 
    - Active Directory
 
