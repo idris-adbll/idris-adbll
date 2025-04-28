@@ -9,6 +9,7 @@
 - <b>:signal_strength: Network Practices</b>
 
    - Basic LAN setup with DHCP(packet tracer)
+   - Basic Switch Configuration (packet tracer)
 
 
 
