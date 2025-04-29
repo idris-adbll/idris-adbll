@@ -10,6 +10,7 @@
 
    - Basic LAN setup with DHCP(packet tracer)
    - Basic Switch Configuration (packet tracer)
+   - Basic Data and Voice VLAN Setup Homelab
 
 
 
