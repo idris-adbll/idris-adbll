@@ -2,7 +2,7 @@
 
 <h2>👨‍💻 Information Technology Projects:</h2>
 
-- <b> ![Image](https://github.com/user-attachments/assets/b04b4f08-0a49-4dae-958f-0d7bf78332b7)height="15" width="15"/> Windows Server 2022 (Active Directory Projects)</b>
+- <b> ![Image](https://github.com/user-attachments/assets/b04b4f08-0a49-4dae-958f-0d7bf78332b7) height="15" width="15"/> Windows Server 2022 (Active Directory Projects)</b>
 
    - Active Directory
 
