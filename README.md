@@ -10,7 +10,7 @@
 
   - [Basic LAN setup with DHCP (Cisco Packet Tracer)]
   - [Basic Switch Configuration (Cisco Packet Tracer)]
-  - [Basic Data and Voice VLAN Setup Homelab (Cisco Paket Tracer)]
+  - [Basic Data and Voice VLAN Setup Homelab (Cisco Paket Tracer)](https://github.com/idris-adbl/Basic-Data-and-Voice-VLAN-Setup-Homelab/tree/main)
 
 
 <h2>🤳Connect with me:</h2>
