@@ -5,6 +5,7 @@
 - <b> <img src="https://github.com/user-attachments/assets/b04b4f08-0a49-4dae-958f-0d7bf78332b7" height="15" width="15"/> Windows Server 2022 (Active Directory Projects)</b>
 
    - [Active Directory](https://github.com/idris-adbl/Active-Directory-Projects)
+   - Powershell
 
 - <b>:signal_strength: Network Practices</b>
 
